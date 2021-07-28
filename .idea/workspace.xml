@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25c21f52-1876-4d96-ab24-efc89437c8b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1uiCYw9GzngJ3r1yTCrn6IJiG38" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Dark-HTML-Login-Form-Template" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25c21f52-1876-4d96-ab24-efc89437c8b4" name="Default Changelist" comment="" />
+      <created>1625139073804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625139073804</updated>
+      <workItem from="1625139075459" duration="5988000" />
+      <workItem from="1625210759212" duration="23000" />
+      <workItem from="1625484871568" duration="4795000" />
+      <workItem from="1625571979734" duration="1521000" />
+      <workItem from="1625573641821" duration="201000" />
+      <workItem from="1625573854364" duration="1583000" />
+      <workItem from="1625575468014" duration="1613000" />
+      <workItem from="1625577321555" duration="198000" />
+      <workItem from="1625639804523" duration="64000" />
+      <workItem from="1625658828138" duration="2770000" />
+      <workItem from="1625661612723" duration="4419000" />
+      <workItem from="1625740668591" duration="5644000" />
+      <workItem from="1625815318002" duration="105000" />
+      <workItem from="1625828851911" duration="2600000" />
+      <workItem from="1626090789871" duration="17000" />
+      <workItem from="1626091355613" duration="144000" />
+      <workItem from="1626095058995" duration="1064000" />
+      <workItem from="1626157374298" duration="1226000" />
+      <workItem from="1626179675696" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="126" width="426" height="480" key="FileChooserDialogImpl" timestamp="1626163052291">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="291" y="126" width="426" height="480" key="FileChooserDialogImpl/0.0.1024.741@0.0.1024.741" timestamp="1626163052291" />
+    <state x="328" y="294" width="351" height="144" key="NewPhpFileDialog" timestamp="1625574441614">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="328" y="294" width="351" height="144" key="NewPhpFileDialog/0.0.1024.741@0.0.1024.741" timestamp="1625574441614" />
+    <state x="8" y="1" key="SettingsEditor" timestamp="1625576483734">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="8" y="1" key="SettingsEditor/0.0.1024.741@0.0.1024.741" timestamp="1625576483734" />
+    <state x="201" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1626160435673">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="201" y="196" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1626160435673" />
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup" timestamp="1625659559145">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup/0.0.1024.741@0.0.1024.741" timestamp="1625659559145" />
+  </component>
+</project>
